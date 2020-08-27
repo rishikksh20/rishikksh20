@@ -6,7 +6,7 @@ Hi friends, I'm Rishikesh, an AI developer from India.
 - 🌱 I love to code and contribute to Open Source.
 - 💬 Ask me anything regarding my work, code and research [here](https://github.com/rishikksh20/rishikksh20/issues).
 - 📫 How to reach me:  rishikksh20@gmail.com
-- ⚡ Fun fact: I also do poetry.
+- ⚡ Fun fact: I also write poetry.
 
 ### Connect with me:
 
