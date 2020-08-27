@@ -15,6 +15,7 @@ Hi friends, I'm Rishikesh, an AI developer from India.
 [<img align="left" alt="rishikksh20@gmail.com | Gamil" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />](mailto:rishikksh20@gmail.com)
 
 <br />
+
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="PyTorch" width="26px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
