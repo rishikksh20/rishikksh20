@@ -1,5 +1,6 @@
 ### Hi there, I'm Rishikesh 👋
-
+[![HitCount](http://hits.dwyl.com/rishikksh20/rishikksh20.svg)](http://hits.dwyl.com/rishikksh20/rishikksh20)
+<br />
 Hi friends, I'm Rishikesh, an AI developer from India.
 
 - 🔭 I’m currently working on Speech Synthesis and End to End TTS engines.
