@@ -1,7 +1,6 @@
 ### Hi there, I'm Rishikesh 👋
-<br />
 Hi friends, I'm Rishikesh, an AI developer from India. I have a keen interest in machine learning and deep learning research, especially in a field of speech synthesis and computer vision.
-
+<br />
 - 🔭 I’m currently working on Speech Synthesis and End to End TTS engines.
 - 🌱 I love to code and contribute to Open Source.
 - 💬 Ask me anything regarding my work, code and research [here](https://github.com/rishikksh20/rishikksh20/issues).
