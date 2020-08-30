@@ -1,7 +1,6 @@
 ### Hi there, I'm Rishikesh 👋
-[![HitCount](http://hits.dwyl.com/rishikksh20/rishikksh20.svg)](http://hits.dwyl.com/rishikksh20/rishikksh20)
 <br />
-Hi friends, I'm Rishikesh, an AI developer from India. I have keen interest in machine learning and deep learning research, specially in a field of speech synthesis and computer vision.
+Hi friends, I'm Rishikesh, an AI developer from India. I have a keen interest in machine learning and deep learning research, especially in a field of speech synthesis and computer vision.
 
 - 🔭 I’m currently working on Speech Synthesis and End to End TTS engines.
 - 🌱 I love to code and contribute to Open Source.
