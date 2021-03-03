@@ -10,7 +10,6 @@ Hi friends, I'm Rishikesh, an AI developer from India. I have a keen interest in
 ### Connect with me:
 
 [<img align="left" alt="ai_rishikesh | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />](https://twitter.com/ai_rishikesh)
-[<img align="left" alt="rishikeshkumar | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />](https://www.linkedin.com/in/rishikeshkumar/)
 
 
 <br />
