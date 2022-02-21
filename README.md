@@ -5,7 +5,7 @@ Hi friends, I'm Rishikesh, an AI developer from India. I have a keen interest in
 - 🌱 I love to code and contribute to Open Source.
 - 💬 Ask me anything regarding my work, code and research [here](https://github.com/rishikksh20/rishikksh20/issues).
 - 📫 How to reach me:  rishikksh20@gmail.com
-- ⚡ One Fact about me: I speak less and code more.
+- ⚡ One Fact about me: **I speak less and code more.**
 
 ### Connect with me:
 
