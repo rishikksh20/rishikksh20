@@ -9,7 +9,9 @@ Hi friends, I'm Rishikesh, co-founder and CTO of DeepSync Technologies. I gradua
 <br />
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=rishikksh20&show_icons=true">
+<br />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishikksh20"/>
 
 ### Connect with me:
 
