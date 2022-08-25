@@ -13,7 +13,7 @@ Hi friends, I'm Rishikesh, co-founder and CTO of DeepSync Technologies. I gradua
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishikksh20"/>
 </ div>
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="ai_rishikesh | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />](https://twitter.com/ai_rishikesh)
 
@@ -22,7 +22,7 @@ Hi friends, I'm Rishikesh, co-founder and CTO of DeepSync Technologies. I gradua
 
 
 
-### Languages and Tools:
+## Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="PyTorch" width="26px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
 <img align="left" alt="Github" width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
