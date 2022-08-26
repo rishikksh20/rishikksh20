@@ -6,9 +6,6 @@ Hi friends, I'm Rishikesh, co-founder and CTO of DeepSync Technologies. I gradua
 - 💬 Ask me anything regarding my work, code and research [here](https://github.com/rishikksh20/rishikksh20/issues).
 - 📫 How to reach me:  rishikksh20@gmail.com
 - ⚡ One Fact about me: **I speak less and code more.**
-<br />
-<br />
-
 
 ## Connect with me:
 
