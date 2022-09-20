@@ -5,7 +5,7 @@ Hi friends, I'm Rishikesh, Co-founder and CTO of **DeepSync Technologies**. I gr
 - 🌱 I love to code and contribute to Open Source.
 - 💬 Ask me anything regarding my work, code and research [here](https://github.com/rishikksh20/rishikksh20/issues).
 - 📫 How to reach me:  rishikksh20@gmail.com
-- ⚡ One Fact about me: **Although I am a quiet person but if you have something to talked about Deep Learning then I am very talktative.**
+- ⚡ One Fact about me: **Although I am a quiet person but if you have something to talk about Deep Learning then I am very talktative.**
 
 ## Connect with me:
 
