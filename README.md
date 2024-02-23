@@ -1,5 +1,5 @@
 ### Hi there, I'm Rishikesh, Speech and Computer Vision Researcher👋
-Hi friends, I'm Rishikesh, Co-founder and CTO of **DeepSync Technologies**. I graduated from NIT Silchar and immediately after my graduation I joined my first organisation, **Nucleus Software** as Full Stack Developer role. I have a keen interest in machine learning and deep learning research, especially in a field of speech synthesis and computer vision.
+Hi friends, I'm Rishikesh, Co-founder and CTO of **Dubpro.ai** formely known as **DeepSync Technologies**. I graduated from NIT Silchar and immediately after my graduation I joined my first organisation, **Nucleus Software** as Full Stack Developer role. I have a keen interest in machine learning and deep learning research, especially in a field of speech synthesis and computer vision.
 <br />
 - 🔭 I’m currently working on Speech Synthesis and End to End Text to Speech (TTS) engines.
 - 🌱 I love to code and contribute to Open Source.
