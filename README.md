@@ -2,7 +2,7 @@
 
 ### 🧠 AI Research Engineer | 🎙️ Voice AI • LLMs • Agentic Systems • ⚡ Efficient Inference
 
-I'm an **AI engineer and researcher with ~10 years of experience**, working across Generative AI, speech synthesis, language models, multimodal systems, and production AI infrastructure.
+I'm an **AI engineer and researcher with ~8.5 years of experience**, working across Generative AI, speech synthesis, language models, multimodal systems, and production AI infrastructure.
 
 I enjoy working close to the fundamentals **implementing architectures from research papers, training and optimizing models, understanding inference at the kernel level, and turning those ideas into production AI systems.**
 
