@@ -11,6 +11,7 @@ I **co-founded Dubpro.ai / DeepSync Technologies and currently serve as CTO**, l
 Alongside my work at Dubpro.ai, I recently collaborated :fire: for six months as an **AI Consultant / Developer with [MyClone.is](https://www.myclone.is) (formerly Rappo), a San Francisco-based company**, where I helped build a real-time **Voice AI digital persona platform** capable of replicating a user's knowledge, conversational style, persona, and voice from their text and voice data.
 
 **:memo: Email:** [rishikksh20@gmail.com](mailto:rishikksh20@gmail.com)
+
 ---
 
 ## 🔬 What I Work On & Enjoy Building
