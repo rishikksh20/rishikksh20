@@ -12,52 +12,36 @@ Alongside my work at Dubpro.ai, I recently collaborated :fire: for six months as
 
 ---
 
-### 🔬 What I enjoy building
+## 🔬 What I Work On & Enjoy Building
 
-I’m always interested in taking on **new technical challenges, research collaborations, and ambitious AI projects**, particularly around:
+I’m always interested in taking on **new technical challenges, research collaborations, and ambitious AI projects**, especially where I can explore new model architectures, understand systems from first principles, and turn research ideas into practical AI products.
 
-**🤖 LLMs & Model Architectures**
+### 🤖 LLMs & Model Architectures
 
-**🎙️ Voice AI & Generative Audio**
-
-**🧩 Agentic Systems & Multi-Agent Workflows**
-
-**🔎 RAG, Memory & Retrieval Systems**
-
-**🏋️ Model Training, RL & Post-Training**
-
-**⚡ Inference Optimization & Triton Kernels**
-
----
-
-## 🔬 What I Work On
-
-**LLMs & Sequence Models**
-
-* Transformer, hybrid attention, linear attention and State Space Model architectures
+* Transformers, **hybrid attention, linear attention, and State Space Models (SSMs)**
 * From-scratch PyTorch implementations of modern LLM architectures
-* Model loading, KV caching, decoding, sampling and inference optimization
+* Model loading, **KV caching, decoding, sampling, and generation pipelines**
 
-**LLM Training & Optimization**
+### ⚡ Training & Inference Optimization
 
-* Fine-tuning, reinforcement learning, RLHF and post-training alignment
-* PyTorch performance optimization, Flash/SDPA attention and GQA
+* Fine-tuning, **Reinforcement Learning, RLHF, and post-training alignment**
+* PyTorch performance optimization, **Flash Attention / SDPA and GQA**
 * CUDA-aware optimization and custom **Triton kernels**
-* Token throughput, memory usage and inference latency optimization
+* Optimizing **token throughput, GPU memory usage, latency, and inference performance**
 
-**Voice AI & Generative Audio**
+### 🎙️ Voice AI & Generative Audio
 
-* Text-to-Speech, voice cloning and neural vocoders
-* Audio codecs and discrete speech representations
-* Diffusion and flow-matching based generative models
-* Real-time STT → LLM → TTS pipelines and telephony agents
+* **Text-to-Speech, voice cloning, neural vocoders, and audio codecs**
+* Discrete speech/audio representations
+* **Diffusion and Flow Matching** based generative models
+* Real-time **STT → LLM → TTS** pipelines, Voice AI agents, and telephony systems
 
-**Agentic AI & Retrieval**
+### 🧩 Agentic AI, RAG & Memory
 
-* RAG systems, vector search and long-term memory
+* **RAG, vector retrieval, long-term memory, and knowledge systems**
 * Multi-agent orchestration and agent workflows
-* MCP tools, skills, tool calling and context/state management
-* Real-time agents using LiveKit, Pipecat and telephony infrastructure
+* **MCP, tools, skills, tool calling, and context/state management**
+* Real-time AI agents using **LiveKit, Pipecat, and telephony infrastructure**
 
 ---
 
