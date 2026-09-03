@@ -4,15 +4,14 @@
 
 I'm an **AI engineer and researcher with ~10 years of experience**, working across Generative AI, speech synthesis, language models, multimodal systems, and production AI infrastructure.
 
-I enjoy working close to the fundamentals — **implementing architectures from research papers, training and optimizing models, understanding inference at the kernel level, and turning those ideas into production AI systems.**
+I enjoy working close to the fundamentals **implementing architectures from research papers, training and optimizing models, understanding inference at the kernel level, and turning those ideas into production AI systems.**
 
-I **co-founded Dubpro.ai / DeepSync Technologies and currently serve as CTO**, leading AI and engineering across speech synthesis, multilingual AI, generative models, agentic systems, and AI-assisted dubbing technologies.
+I **co-founded Dubpro.ai (DeepSync Technologies) and currently serve as CTO**, leading AI and engineering across speech synthesis, multilingual AI, generative models, agentic systems, and AI-assisted dubbing technologies.
 
-Alongside my work at Dubpro.ai, I recently collaborated :fire: for six months as an **AI Consultant / Developer with [MyClone.is](https://www.myclone.is) (formerly Rappo), a San Francisco-based company**, where I helped build a real-time **Voice AI digital persona platform** capable of replicating a user's knowledge, conversational style, persona, and voice from their text and voice data.
+Alongside my work at Dubpro.ai, I recently collaborated :fire: for six months as an **AI Consultant with [MyClone.is](https://www.myclone.is) (formerly Rappo), a San Francisco-based company**, where I helped build a real-time **Voice AI digital persona platform** capable of replicating a user's knowledge, conversational style, persona, and voice from their text and voice data.
 
 **:memo: Email:** [rishikksh20@gmail.com](mailto:rishikksh20@gmail.com)
 
----
 
 ## 🔬 What I Work On & Enjoy Building
 
