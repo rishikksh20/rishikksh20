@@ -4,6 +4,8 @@
 
 I'm an **AI Engineer & Researcher with ~8.5 years of experience** in Generative AI, speech synthesis, LLM architectures, agentic systems, and AI infrastructure.
 
+🌐 For a detailed overview of my career journey, professional experience, and CV, visit my **[portfolio website](https://rishikksh20.github.io/)**.
+
 I enjoy **implementing research papers from scratch, training and optimizing models, exploring GPU-level inference, and building real-world AI systems.**
 
 - 🚀 **Co-founder & CTO at Dubpro.ai (DeepSync Technologies)** — building speech synthesis, multilingual AI, voice cloning, and generative audio technologies.
@@ -63,4 +65,4 @@ Selected open-source implementations from my work in speech synthesis, neural au
 
 Open to **AI research collaborations, challenging engineering problems, and ambitious AI projects.**
 
-🐙 [GitHub](https://github.com/rishikksh20) · 𝕏 [@ai_rishikesh](https://twitter.com/ai_rishikesh) · 📩 [Email](mailto:rishikksh20@gmail.com)
+🐙 [GitHub](https://github.com/rishikksh20) · 🌐 [Portfolio](https://rishikksh20.github.io) · 𝕏 [@ai_rishikesh](https://twitter.com/ai_rishikesh) · 📩 [Email](mailto:rishikksh20@gmail.com)
